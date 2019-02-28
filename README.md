@@ -24,3 +24,8 @@ This game is being made Using the Godot Engine
 * Windows
 * Mac
 * Linux
+
+
+# Story
+
+Work in Progress
