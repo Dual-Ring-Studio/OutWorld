@@ -16,7 +16,7 @@ This game is being made Using the Godot Engine
 4. sound affects location
 5. Add the Music while modifying the sound settings so its not too loud over the sound affects
 6. key-bindings for keyboard (mouse controls might come out soon or it won't be part of the game)
-7. make key-bindings accessible to new players new to the genre
+7. make key-bindings accessible to new players and new to the genre
 
 
 # Planned OS
