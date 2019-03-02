@@ -29,3 +29,27 @@ This game is being made Using the Godot Engine
 # Story
 
 Work in Progress
+
+# The Team
+
+### Programmers
+
+* SHADOWELITE7
+* heCk
+
+### Composers
+
+* SeargentSMilo
+
+### Sound Designers
+
+* Blingley
+
+### Artists
+
+* Autumn Axiom
+* Nantucket
+* Invictus
+* LiskyFox
+
+
