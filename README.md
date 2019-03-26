@@ -47,7 +47,6 @@ Work in Progress
 
 * Autumn Axiom
 * Nantucket
-* Invictus
 * LiskyFox
 
 more people may be coming soon
@@ -58,3 +57,7 @@ more people may be coming soon
 send us an issue on github using this question
 ``I’m making a game and need a pitch idea. what have you always wanted to see in an single player 2d rpg``
 
+
+
+# tools
+[Godot 3.0](http://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/index.html)
